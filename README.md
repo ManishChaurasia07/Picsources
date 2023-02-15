@@ -1,3 +1,3 @@
-# ShareMe Social Media Application
+# PixMe an Photo sharing Social Media Application
 
 ## Introduction
